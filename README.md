@@ -29,13 +29,13 @@
   - search
   * Restaurant Container
     - Res card
-      -image
-      -Name of res, cuisine, price, rating
+      - image
+      - Name of res, cuisine, price, rating
 - Footer
-  -copywright
-  -links
-  -address
-  -contact
+  - copyWright
+  - links
+  - address
+  - contact
 
 There are two types of Import/Export
 
@@ -47,3 +47,6 @@ There are two types of Import/Export
 - Named export/import
   export const ComponentName
   import {ComponentName} from './path'
+
+#By pass CORS
+https://corsproxy.io/ using this site you can by pass the cors error
